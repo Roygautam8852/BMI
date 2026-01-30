@@ -42,9 +42,9 @@ JavaScript – Logic and calculations
 📂 Project Structure
 BMI-Calculator/
 │
-├── index.html
-├── style.css
-├── script.js
+├── bmi.html
+├── bmi.css
+├── bmi.js
 └── README.md
 
 ▶️ How to Run the Project
